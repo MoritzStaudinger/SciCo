@@ -8,6 +8,7 @@ The dataset consists of:
 - **Corpus file** (JSON): Full-texts with detailed metadata for 12,610 unique publications (2015–2025).
 - **Question files** (JSON): 97 curated queries to guide comparative analyses (e.g., comparing universities, summarizing institutional contributions, tracking topic trends).
 
+
 ### Example Corpus Entry
 ```json
 {
@@ -43,7 +44,7 @@ The dataset consists of:
 ```
 
 ### Fulltext
-As the fulltext is too big, to be hosted on Github, it is available for download from [Google Drive](https://drive.google.com).
+As the fulltext is too big, to be hosted on Github, it is available for download from [Google Drive]([https://drive.google.com](https://drive.google.com/file/d/1yKlH1kImR_jYBrUnDEcJ_L6uW44uJn2e/view?usp=drive_link)).
 
 
 ## License
