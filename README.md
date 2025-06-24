@@ -44,7 +44,7 @@ The dataset consists of:
 ```
 
 ### Fulltext
-As the fulltext is too big, to be hosted on Github, it is available for download from [Google Drive]([https://drive.google.com](https://drive.google.com/file/d/1yKlH1kImR_jYBrUnDEcJ_L6uW44uJn2e/view?usp=drive_link)).
+As the fulltext is too big, to be hosted on Github, it is available for download from [Google Drive](https://drive.google.com/file/d/1yKlH1kImR_jYBrUnDEcJ_L6uW44uJn2e/view?usp=drive_link).
 
 
 ## License
